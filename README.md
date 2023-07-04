@@ -40,7 +40,7 @@ pip install -r requirements.txt
 In the data.json:
 ```json
 {
-    "target_url": "" # Replace for url targeted example: https://example.com
+    "target_url": "" # Replace with example targeted URL: https://example.com
 }
 ```
 
