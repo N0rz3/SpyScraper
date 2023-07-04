@@ -9,7 +9,7 @@
 # **SpyScraper is an osint tool made for scraping various website information**
 
 
-# **😇 Abouts Isearch**
+# **😇 Abouts SpyScraper**
 
 **SpyScraper is an osint tool allowing to recover various public information on a website.**
 
