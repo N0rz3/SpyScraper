@@ -1,0 +1,4 @@
+asyncio 
+python-whois
+bs4
+requests
