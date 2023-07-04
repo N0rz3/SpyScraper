@@ -23,7 +23,7 @@
 - author
 - date of creation/update/expiration
 - location
-- names servers
+- servers names
 
 
 
