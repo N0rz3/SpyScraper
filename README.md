@@ -61,6 +61,7 @@ In the data.json:
 
 **this tool was designed for educational purposes only and is not intended for any mischievous use, I am not responsible for its use.**
 
+- Be sure to follow the laws of website terms of use and use SpyScraper correctly and responsibly
 
 ### **📜 License**
 
