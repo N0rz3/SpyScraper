@@ -62,6 +62,44 @@ In the data.json:
 
 `python3 SpyScraper.py `
 
+**Example of result:**
+```
+┌─┐┌─┐┬ ┬┌─┐┌─┐┬─┐┌─┐┌─┐┌─┐┬─┐
+└─┐├─┘└┬┘└─┐│  ├┬┘├─┤├─┘├┤ ├┬┘   (BY 🦊 @N0rz3)
+└─┘┴   ┴ └─┘└─┘┴└─┴ ┴┴  └─┘┴└─
+
+        Made with ❤️
+
+🐦 Twitter: @norze15
+☕ Donations: https://www.buymeacoffee.com/norze
+
+[🟢] 👑 Author(s):
+N0rz3
+
+[🟢] 📆 Date(s):
+Creation date => 2020-01-03 00:00:00
+Update date => 2023-03-28 00:00:00
+Expiration date => 2024-01-01 00:00:00
+
+[🟢] 📫 Email(s):
+EXAMPLE@example.com
+
+[🟢] 📞 Phone(s) numbers:
++1111111111
++1111111122
+
+[🟢] 🏘️ Location:
+France
+
+[🟢] 🤖 Server(s):
+server.example1
+server.example2
+
+[🟢] 👀 Href(s):
+All hrefs...
+```
+
+
 ## **🌞 More**
 
 
