@@ -14,7 +14,7 @@
 
 ## 🤾 Functioning:
 
-SpyScraper allows to scrape different information on websites thanks to regular expressions, scraping tag in the html content of the site and the **whois** module
+SpyScraper allows to scrape different information on websites thanks to regular expressions, scraping of tag in the html content of the site and the **whois** module
 
 And also the **whois** module for everything:
 - servers
