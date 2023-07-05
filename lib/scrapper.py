@@ -160,35 +160,48 @@ async def output():
         loc = await extract_location(url)
 
         if authors != None:
-            print(BLUE + "\n[+] 👑 Author(s):" + WHITE)
+            print("\n[🟢] 👑 Author(s):")
             print(f"- {authors}")
+        else:
+            print("[🔴] 👑 Author(s)")
 
         if cre_upd:
-            print(BLUE + "\n[+] 📆 Date(s):" + WHITE)
+            print("\n[🟢] 📆 Date(s):")
             for cre in cre_upd:
                 print(cre)
+        else:
+            print("\n[🔴] 📆 Date(s)")
 
         if emails:
-            print(BLUE + "\n[+] 📫 Email(s):" + WHITE)
+            print("\n[🟢] 📫 Email:")
             for email in emails:
                     if email not in e:    
                                 print(f"{email}")
                                 e.append(email)
+        else:
+            print("\n[🔴] 📫 Email")
 
         if phones:
-            print(BLUE + "\n[+] 📞 Phone(s) numbers:" + WHITE)
+            print("\n[🟢] 📞 Phone(s) numbers:")
             print(phones)
+        else:
+            print("\n[🔴] 📞 Phone(s) numbers")
 
         if loc:
-            print(BLUE + "\n[+] 🏘️ Location:" + WHITE)
+            print("\n[🟢] 🏘️ Location:")
             print(loc)
+        else:
+            print("\n[🔴] 🏘️ Location")
 
         if serv:
-            print(BLUE + "\n[+] 🤖 Server(s):" + WHITE)
+            print("\n[🟢] 🤖 Server(s):")
             print(serv)
+        else:
+            print("\n[🔴] 🤖 Server(s)")
+        
 
         if links:
-            print(BLUE + "\n[+] 👀 Href(s):" + WHITE)
+            print("\n[🟢] 👀 Href(s):")
             for link in links:
                 href += 1
                 hrefs.append(link)
@@ -206,6 +219,8 @@ async def output():
             else:
                 for h in hrefs:
                     print(h)
+        else:
+            print("\n[🔴] 👀 Href(s)")
 
 async def main():
     if await checker():
