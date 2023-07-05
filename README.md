@@ -46,16 +46,6 @@ In the data.json:
 }
 ```
 
-
-**📚 Example input:**
-
-```python SpyScraper.py```
-
-**📚 Example output:**
-
-![result](https://github.com/N0rz3/N0rz3/assets/123885505/1b8629bd-4832-487d-bad3-f41d0f6f401a)
-
-
 ## **🌞 More**
 
 
