@@ -19,7 +19,7 @@
 - menu in cli format (commands)
 
 **Scraping skills**
-- email
+- emails
 - phones numbers
 - hrefs
 - author
