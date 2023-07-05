@@ -90,7 +90,7 @@ async def extract_phone(url: str) -> list:
         return "\n".join(formatted_numbers) 
 
     except:
-        return ""
+        return[]
 
 async def cretaion_update(url: str):
     try:
