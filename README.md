@@ -46,6 +46,10 @@ In the data.json:
 }
 ```
 
+### Then just run the script 👌:
+
+`python SpyScraper.py `
+
 ## **🌞 More**
 
 
