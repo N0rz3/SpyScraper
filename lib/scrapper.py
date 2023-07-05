@@ -169,7 +169,7 @@ async def output():
                 print(cre)
 
         if emails:
-            print(BLUE + "\n[+] 📫 Email:" + WHITE)
+            print(BLUE + "\n[+] 📫 Email(s):" + WHITE)
             for email in emails:
                     if email not in e:    
                                 print(f"{email}")
