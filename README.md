@@ -10,8 +10,6 @@
 
 # **😇 Abouts SpyScraper**
 
-**SpyScraper is an osint tool allowing to recover various public information on a website.**
-
 ## 🤾 Functioning:
 
 SpyScraper allows to scrape different information on websites thanks to regular expressions, scraping of tag in the html content of the site and the **whois** module
