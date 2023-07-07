@@ -37,7 +37,7 @@ SpyScraper allows to scrape different information on websites thanks to regular 
 ```
 git clone https://github.com/N0rz3/SpyScraper.git
 cd SpyScraper
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 In the data.json:
